@@ -36,7 +36,7 @@ And start your post content under it.
 
 Step 3: Do local test
 ---
-To test your post, you need *ruby* and *jekyll*, the jekyll version for this repo is 1.9, you can install thest tools in source. For example, you can do this under openSUSE:
+To test your post, you need *ruby* and *jekyll*, the jekyll version for this repo is 1.9, you can install these tools in source. For example, you can do this under openSUSE:
 
 ```bash
 sudo zypper in ruby ruby-devel
@@ -53,11 +53,11 @@ This will start a process listening on localhost:4000 as a webserver. Use your b
 
 Step 4: Commit
 ---
-If everything look fine, what you need is to commit your change. Just git add the markdown file and push. **git add and only add the file you created or edited** , don't touch any other files. 
+If everything looks fine, what you need is to commit your change. Just git add the markdown file and push. **git add and only add the file you created or edited** , don't touch any other files. 
 
 ```bash
-	git add _posts/year-month-day-title.md
-	git push
+git add _posts/year-month-day-title.md
+git push
 ```
-You are done! Feel free to add any content about research ideas, programming,  application configuration, etc.
+You are done! Feel free to add any content about research ideas, programming,  application configuration, etc.  :-)
 
