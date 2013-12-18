@@ -61,3 +61,4 @@ git push
 ```
 You are done! Feel free to add any content about research ideas, programming,  application configuration, etc.  :-)
 
+Notice: if you didn't see your post shown, just wait a while, github need sometime to convert your markdown to html.
